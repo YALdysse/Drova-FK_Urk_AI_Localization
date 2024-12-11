@@ -9,8 +9,8 @@
     - [x] Perceptible
 - [x] Dialogue `1.1.5`
 - [x] Dialogues `1.1.5`
-- GUI 
-- HUD 
+- [x] GUI `1.1.5`
+- [x] HUD `1.1.5` 
 - [] Journal 
 - [x] Letters `1.1.5`
 -  NPC_Names
