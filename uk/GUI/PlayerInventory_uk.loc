@@ -1,0 +1,59 @@
+title_character_segment { Персонаж }
+
+label_character_level { Рівень }
+
+tooltip_character_level { Показує ваш поточний рівень. Це вказує на потужність вашого персонажа. }
+
+tooltip_character_faction { Показує вашу поточну приналежність. }
+
+tooltip_character_skillpoints { Ви можете використовувати очки навчання для підвищення ваших атрибутів або для вивчення нових талантів у вчителів. Кожен новий рівень дає <color=#55BD55>чотири</color> очки навчання і <color=#55BD55>п’ять</color> очок здоров’я. }
+
+label_character_skillpoints { Очки навчання }
+
+tooltip_character_xp { Ви отримуєте очки досвіду, вбиваючи супротивників або виконуючи завдання. }
+
+label_attributes_hitpoints { Здоров’я }
+
+tooltip_attributes_hitpoints { Коли ваше здоров’я опускається до нуля, ваш персонаж помирає. }
+
+tooltip_attributes_stamina { Витривалість використовується для блокування, ухилення та сильних атак. }
+
+label_attributes_stamina { Витривалість }
+
+tooltip_attributes_flow { Концентрація використовується для здібностей. Вона генерується при завданні шкоди і поступово зникає з часом або після отримання шкоди. }
+
+label_attributes_flow { Концентрація }
+
+tooltip_attributes_power { Майстерність - це сума ваших атрибутів, і вона є необхідною для володіння певною зброєю. }
+
+tooltip_attributes_strength { Сила збільшує фізичну шкоду, яку ви завдаєте, на [VALUE]. }
+
+tooltip_attributes_dexterity { Спритність збільшує ваш шанс на критичний удар на [VALUE]. Кожен критичний удар викликає кровотечу у цілі та додаткову шкоду, залежно від типу зброї. }
+
+tooltip_attributes_mind { Розум збільшує вашу магічну шкоду на [VALUE1] та вашу базову концентрацію на [VALUE2]. }
+
+label_attributes_armor { Броня }
+
+tooltip_attributes_armor { Зменшує вхідну фізичну шкоду. }
+
+tooltip_attributes_magic_resistance { Зменшує вхідну магічну шкоду. }
+
+label_attributes_magic_resistance { Магічний опір }
+
+title_equipment_segment { Обладнання }
+
+title_directquickbar_segment { Швидка панель }
+
+faction_none { Без фракції }
+
+faction_nemeton { Нематон }
+
+faction_ruincamp { Табір Вцілілих }
+
+title_ammo { Боєприпаси }
+
+totalFIghtingStrength { Майстерність }
+
+baseFightingStrength { Базова майстерність }
+
+baseFightingStrengthDesc { Базова майстерність бою — це сума ваших атрибутів без додаткових бонусів від спорядження. Вона також є вимогою для певних талантів. }
